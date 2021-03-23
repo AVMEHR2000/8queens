@@ -1,0 +1,4 @@
+E:\Projects\Exersise 2 ai cpp\ConsoleApplication1\Debug\ConsoleApplication1.exe
+E:\Projects\Exersise 2 ai cpp\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+C:\Users\AVM\Desktop\Ai Exersize 2\8queens\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\AVM\Desktop\Ai Exersize 2\8queens\ConsoleApplication1\Debug\ConsoleApplication1.pdb

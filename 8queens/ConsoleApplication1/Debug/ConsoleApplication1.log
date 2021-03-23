@@ -1,0 +1,10 @@
+﻿  AddQueen.cpp
+C:\Users\AVM\Desktop\Ai Exersize 2\8queens\ConsoleApplication1\AddQueen.cpp(8,5): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\AVM\Desktop\Ai Exersize 2\8queens\ConsoleApplication1\AddQueen.cpp(8,35): warning C4804: '<': unsafe use of type 'bool' in operation
+  CleanBoard.cpp
+  IsGoal.cpp
+  ChessBoardState.cpp
+  ConsoleApplication1.cpp
+  ShowBoard.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\AVM\Desktop\Ai Exersize 2\8queens\ConsoleApplication1\Debug\ConsoleApplication1.exe
